@@ -28,8 +28,8 @@ https://github.com/Tenpi/Video-Player
 https://github.com/mrdoob/three.js
 
 first features:  
-1.deploy smart contract for all type  rich multimedia files
-2.load from IPFS: from transaction id to load files from IPFS
+1.deploy smart contract for all type  rich multimedia files 
+2.load from IPFS: from transaction id to load files from IPFS 
 3.update to IPFS: pay gas fee to call smart contract, after aproved, save to IPFS
 
 

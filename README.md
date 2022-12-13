@@ -1,4 +1,4 @@
-# manyverse_ipfs
+# manyverse_ipfs_smartcontract
 
 rich multimedia files save to ipfs: files generated from any format of pictures, audio, video, any form files  
 rich multimedia files update： and updated to the existing nft  
@@ -6,7 +6,7 @@ rich multimedia files update： and updated to the existing nft
 markdown:  
 https://github.com/marktext/marktext
 
-![marktext](https://user-images.githubusercontent.com/16698808/174074560-f80f49fd-98ca-4a3c-8ff5-18bd0ec6d1fe.png)
+![marktext](https://user-images.githubusercontent.com/16698808/207223930-fe45f41d-3058-478c-96f0-681e0908d0d7.png)
 
 
 Rich Text Editor saved to IPFS    
@@ -16,14 +16,13 @@ https://github.com/quilljs/quill/
 picture:  
 https://github.com/1j01/jspaint 
 
-![jspain](https://user-images.githubusercontent.com/16698808/174998537-d6a04263-f63a-4cf0-a3d3-1048f0370df8.png)
-
+![jspaint](https://user-images.githubusercontent.com/16698808/207223995-c2335e6d-1a1c-47e5-b49d-f853cd1d8e38.png)
 
 
 video:  
 https://github.com/Tenpi/Video-Player
 
-![ideo_play](https://user-images.githubusercontent.com/16698808/174998580-025bbdce-319f-4827-ba84-79be0ba11144.png)
+![video-player](https://user-images.githubusercontent.com/16698808/207224021-360058d1-8e02-487b-979d-ecb5c706eb40.png)
 
 
 3D:  
@@ -44,8 +43,7 @@ https://gitlab.com/staltz/manyverse
 
 add IPFS storage support for manyverse app, which is a dapp in decentralized social.Now the storage capacity of manyverse is set by the user, and the content beyond this value will be deleted and not saved. This project provides one more option to save the extra information into the IPFS
 
-![image](https://user-images.githubusercontent.com/16698808/173471175-4948a215-1860-43da-9578-a1e13e16685f.png)
-
+![manyverse](https://user-images.githubusercontent.com/16698808/207224086-cf8ee055-b984-4570-9190-3061623aa13a.png)
 
 
 email:  

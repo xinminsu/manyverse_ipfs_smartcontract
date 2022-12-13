@@ -28,14 +28,10 @@ https://github.com/Tenpi/Video-Player
 https://github.com/mrdoob/three.js
 
 first features:  
-1.save to IPFS:these Rich Text Cloud Editor saved the new create files to  IPFS  
-2.load from IPFS: present the files from IPFS  
-3.update to IPFS: update the files saved in IPFS
+1.deploy smart contract for all type  rich multimedia files
+2.load from IPFS: from transaction id to load files from IPFS
+3.update to IPFS: pay gas fee to call smart contract, after aproved, save to IPFS
 
-next features:  
-1.items or blocks save to IPFS:these Rich Media Cloud Editor saved the new create items or blocks to IPFS  
-2.link items or blocks in different files to keep only one saved in ipfs  
-3.index , search, vender these items or blocks from ipfs   
 
 Deso dapp:   
 https://gitlab.com/staltz/manyverse

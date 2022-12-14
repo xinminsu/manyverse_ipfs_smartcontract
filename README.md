@@ -1,6 +1,6 @@
 # manyverse_ipfs_smartcontract
 
-rich multimedia files save to ipfs: spend some gas fee to call smart contract, save files generated from any format of pictures, audio, video, any form files into ipfs blockchain. and can visit them everywhere. 
+rich multimedia files or game engine asserts save to ipfs: spend some gas fee to call smart contract, save files generated from any format of pictures, audio, video, any form files into ipfs blockchain. and can visit them everywhere. 
 
 1. add FVM smart contract for blender asserts:  
 https://github.com/blender/blender
